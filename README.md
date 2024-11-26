@@ -6,7 +6,8 @@ Alunos:
 - Pedro Arthur Furtado  
 - Diogo Soares  
 - Osvaldo Neto  
-- Luis Rodrigo Lima  
+- Luis Rodrigo Lima
+- Lucas Gabriel  
 
 **Tipo de loja:** E-commerce
 
