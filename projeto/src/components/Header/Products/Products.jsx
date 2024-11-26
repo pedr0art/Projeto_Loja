@@ -30,7 +30,7 @@ function Products() {
    * - Desativa o indicador de carregamento ao concluir a busca.
    */
   useEffect(() => {
-    fetchProducts('motorola').then((response) => {
+    fetchProducts('').then((response) => {
       setProducts(response);
       setLoading(false);
     });
