@@ -11,3 +11,6 @@ Alunos:
 **Tipo de loja:** E-commerce
 
 **Linguagem utilizada:** JavaScript (React)
+
+**Visite a aplicação:** https://click-cart-rosy.vercel.app
+ 
