@@ -8,6 +8,6 @@ Alunos:
 - Osvaldo Neto  
 - Luis Rodrigo Lima  
 
-**Tipo de loja:** Loja de Acessórios  
+**Tipo de loja:** E-commerce
 
 **Linguagem utilizada:** JavaScript (React)
