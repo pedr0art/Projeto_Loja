@@ -20,6 +20,8 @@ function Header() {
       <div className="container">
         {/* Barra de pesquisa */}
         <SearchBar />
+        {/* Título da página */}
+        <h1 className="page-title">Furtados do Pedro Furtado</h1>
         {/* Botão do carrinho */}
         <CartButton />
       </div>
