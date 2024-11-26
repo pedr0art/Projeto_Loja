@@ -1,19 +1,30 @@
 import React from 'react';
 import SearchBar from '../SearchBar/SearchBar';
 import CartButton from '../CartButton/CartButton';
-import './Header.css'
+import './Header.css';
 
+/**
+ * Componente para exibir o cabeçalho da aplicação.
+ * 
+ * O cabeçalho contém:
+ * - Uma barra de pesquisa para buscar produtos.
+ * - Um botão para acessar o carrinho de compras.
+ * 
+ * @component
+ * 
+ * @returns {JSX.Element} Um cabeçalho com a barra de pesquisa e o botão do carrinho.
+ */
 function Header() {
-    return (
-        <header className='header'>
-            <div className='container' >
-                
-                <SearchBar />
-                <CartButton/>
-
-            </div>
-        </header>
-    );
+  return (
+    <header className="header">
+      <div className="container">
+        {/* Barra de pesquisa */}
+        <SearchBar />
+        {/* Botão do carrinho */}
+        <CartButton />
+      </div>
+    </header>
+  );
 }
 
-export default Header
+export default Header;
